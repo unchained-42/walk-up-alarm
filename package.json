@@ -43,7 +43,7 @@
     "husky": "^7.0.4",
     "release-it": "^14.11.8",
     "typescript": "^4.5.4",
-    "vite": "^2.6.4",
+    "vite": "^6.4.3",
     "vite-plugin-pwa": "^0.11.10"
   }
 }
